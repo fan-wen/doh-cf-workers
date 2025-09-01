@@ -14,3 +14,6 @@ You can also deploy the project using the button below, useful if you want to qu
 Want more control of the filter? Use [serverless-dns](https://github.com/serverless-dns/serverless-dns) which powers [RethinkDNS](https://rethinkdns.com/)
 
 Want to host on Google Cloud Function or see how this is implemented in .NET? Use my [doh-gcf](https://github.com/tina-hello/doh-gcf)
+
+
+<!-- Security scan triggered at 2025-09-02 01:08:05 -->
